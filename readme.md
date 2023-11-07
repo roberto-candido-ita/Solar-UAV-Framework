@@ -1,4 +1,4 @@
-# BreadcrumbsSolar-UAV-Framework
+#Solar-UAV-Framework
 
 This is a brief guide on how to set up a Python virtual environment and install the necessary dependencies for this project.
 
