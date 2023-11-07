@@ -1,0 +1,8 @@
+﻿Name,Manufacturer,Energy_density,Voltage,Current,Efficiency
+Panasonic NCR 18650,Panasonic,243,3.7,3.4, 0.91
+Molicel INR18650-P26A, Molicel,190, 3.6, 2.6, 0.90
+Murata VTC6 18650, Murata,231, 3.6, 3.0, 0.90
+Epoch 30P 18650, Epoch Batteries, 232, 3.6, 3.0, 0.90
+Hohm Alone 18650, Hohm Tech, 248, 3.6, 3.309, 90.0
+Samsung 20S 18650, Samsung, 157, 3.6, 2.0, 0.90
+LG HG2, LG, 229, 3.6,3.0, 0.90
