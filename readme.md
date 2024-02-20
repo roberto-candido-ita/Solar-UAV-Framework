@@ -46,7 +46,7 @@ Follow these steps to create a virtual environment and install the required depe
     - seaborn
     - plotly
 
-4. **Start the Project**: You are now ready to start working on your Python project with the necessary dependencies installed.
+4. **Start the Project**: You are now ready to start working on your Python project with the necessary dependencies installed. Run MainWindow.py in the views directory.
 
 ## Contributing
 
